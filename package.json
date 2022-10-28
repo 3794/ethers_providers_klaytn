@@ -53,14 +53,14 @@
   "license": "MIT",
   "main": "./lib/index.js",
   "module": "./lib.esm/index.js",
-  "name": "@ethersproject/providers",
+  "name": "kaikas-ethers-providers",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "directory": "packages/providers",
     "type": "git",
-    "url": "git://github.com/ethers-io/ethers.js.git"
+    "url": "git://github.com/3794/ethers_providers_klaytn.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -68,5 +68,5 @@
   "sideEffects": false,
   "tarballHash": "0x0282d57c2e7162dd582ae2ed220be1f7d3d01237cfc3285d16ccff7cd00dede4",
   "types": "./lib/index.d.ts",
-  "version": "5.1.2"
+  "version": "5.1.7"
 }
